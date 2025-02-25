@@ -1,0 +1,49 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 25 Feb 2025 03:14:08 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 25 Feb 2025 03:14:07 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[板凳的好站推荐]]></title><description><![CDATA[ 
+ <br>123123123213213123123123123<br><br>Log:<br>Settings:<br>
+settingsVersion --------- 1.8.01<br>
+makeOfflineCompatible     false<br>
+inlineAssets ------------ false<br>
+includePluginCSS          1 plugins included<br>
+includeSvelteCSS -------- true<br>
+titleProperty             title<br>
+customHeadContentPath ---<br>
+faviconPath<br>
+documentWidth ----------- 40em<br>
+sidebarWidth              20em<br>
+minOutlineCollapse ------ 2<br>
+startOutlineCollapsed     false<br>
+allowFoldingHeadings ---- true<br>
+allowFoldingLists         true<br>
+allowResizingSidebars --- true<br>
+logLevel                  warning<br>
+minifyHTML -------------- true<br>
+makeNamesWebStyle         true<br>
+onlyExportModified ------ true<br>
+deleteOldFiles            true<br>
+addThemeToggle ---------- true<br>
+addOutline                true<br>
+addFileNav -------------- true<br>
+addSearchBar              true<br>
+addGraphView ------------ true<br>
+addTitle                  true<br>
+addRSSFeed -------------- true<br>
+siteURL<br>
+authorName --------------<br>
+vaultTitle                Obsidian Vault<br>
+exportPreset ------------ website<br>
+openAfterExport           false<br>
+graphAttractionForce ---- 1<br>
+graphLinkLength           10<br>
+graphRepulsionForce ----- 150<br>
+graphCentralForce         3<br>
+graphEdgePruning -------- 100<br>
+graphMinNodeSize          3<br>
+graphMaxNodeSize -------- 7<br>
+showDefaultTreeIcons      false<br>
+emojiStyle -------------- Native<br>
+defaultFileIcon           lucide//file<br>
+defaultFolderIcon ------- lucide//folder<br>
+defaultMediaIcon          lucide//file-image<br>
+exportPath --------------<br>
+filesToExport             0<br>Enabled Plugins:<br>
+Webpage HTML Export]]></description><link>未命名\板凳的好站推荐.html</link><guid isPermaLink="false">未命名/板凳的好站推荐.md</guid><pubDate>Tue, 25 Feb 2025 03:08:45 GMT</pubDate></item></channel></rss>
