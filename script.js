@@ -1,6 +1,33 @@
 // （需要修改的部分）
 const OWNER = 'bandengzex';           // github 用户名，仓库所有者
 
+// 搜索功能
+function handleSearch() {
+    const searchTerm = document.getElementById('search-input').value.toLowerCase();
+    if (!searchTerm) return;
+    
+    const summaries = document.querySelectorAll('.blog-summary');
+    let found = false;
+    
+    summaries.forEach(summary => {
+        const title = summary.querySelector('h2').textContent.toLowerCase();
+        const content = summary.querySelector('p').textContent.toLowerCase();
+        
+        if (title.includes(searchTerm) || content.includes(searchTerm)) {
+            found = true;
+            summary.scrollIntoView({ behavior: 'smooth' });
+            summary.style.backgroundColor = '#f0f7ff';
+            setTimeout(() => {
+                summary.style.backgroundColor = '';
+            }, 2000);
+        }
+    });
+    
+    if (!found) {
+        alert('未找到匹配的内容');
+    }
+}
+
 // （以下不需要修改）
 const REPO = OWNER + '.github.io';     // github page 仓库名
 const TYPE = "博客" // 系统类型，用于区分不同系统
