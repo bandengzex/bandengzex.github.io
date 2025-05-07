@@ -1,5 +1,5 @@
 // （需要修改的部分）
-const OWNER = 'imoki';           // github 用户名，仓库所有者
+const OWNER = 'bandengzex';           // github 用户名，仓库所有者
 
 // （以下不需要修改）
 const REPO = OWNER + '.github.io';     // github page 仓库名
